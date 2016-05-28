@@ -1,0 +1,19 @@
+*****************WELCOME TO UDAAN******************
+
+Welcome to Udaaan, a flight reservation system made with
+Visual Basic 6.0 in frontend and MSAccess as Backend.
+
+In order to modify list of flights and users,
+you need Administrator Access.
+
+Username for Admin : username
+Password for Admin : passw0rd
+
+This application requires data to be manually deleted for planes after a week
+There must be a week's gap between booking date and day of journey
+
+
+I hope that you find this software helpful.
+Thank You!
+
+***************************************************
